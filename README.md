@@ -1,1 +1,1 @@
-# spectral-Analysis-of-ProteinShape
+# Spectral-Analysis-of-ProteinShape
